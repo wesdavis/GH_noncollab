@@ -1,5 +1,9 @@
+def hell_world(city):
+    print(f'Hello world from {city}')
+
+
 def main():
-    print("hello world")
+    hell_world('Frisco')
 
 
 main()
